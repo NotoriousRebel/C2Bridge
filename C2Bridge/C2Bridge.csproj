@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="QuicNet" Version="1.0.0" />
     <PackageReference Include="YamlDotNet" Version="6.1.2" />
   </ItemGroup>
 </Project>
